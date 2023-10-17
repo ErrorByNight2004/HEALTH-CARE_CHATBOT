@@ -26,3 +26,5 @@ Developers: Easily integrate the chatbot into your healthcare applications or we
 Healthcare Providers: Enhance patient support and provide quick answers to common medical questions.
 
 General Users: Get answers to your health-related queries quickly and conveniently.
+
+![image](https://github.com/ErrorByNight2004/SIMPLE_HEALTH-CARE_CHATBOT_-OS-HACKATHON/assets/143543812/7351e1ba-fe2f-45b6-84c1-90fa2719f7db)
