@@ -1,9 +1,9 @@
 # SIMPLE_HEALTH-CARE_CHATBOT_-OS-HACKATHON
-Healthcare Chatbot for OS-Hackathon: Simplifying medical queries and assistance. #HealthTech #AI #Hackathon
+Healthcare Chatbot: Simplifying medical queries and assistance. #HealthTech #AI #Hackathon
 
 🏥 Introduction
 
-This open-source Health Care Chatbot project was created as a part of the OS Hackathon to provide an accessible and user-friendly solution for addressing health-related questions, promoting wellness, and offering basic medical advice. With a focus on simplicity and efficiency, this chatbot can be easily integrated into various healthcare applications and websites.
+This open-source Health Care Chatbot project is created to provide an accessible and user-friendly solution for addressing health-related questions, promoting wellness, and offering basic medical advice. With a focus on simplicity and efficiency, this chatbot can be easily integrated into various healthcare applications and websites.
 
 🚀 Key Features
 
